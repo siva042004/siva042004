@@ -1,26 +1,37 @@
 <div align="center">
 
-<!-- ✅ BANNER: stored in YOUR repo — never breaks -->
-<img src="./banner.svg" width="100%" alt="Sivaragul M — Java Full Stack Developer"/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=42&duration=3000&pause=99999&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=Sivaragul+M" alt="Sivaragul M"/>
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=99999&pause=99999&color=94A3B8&center=true&vCenter=true&width=700&height=30&lines=Java+Full+Stack+Developer+%7C+Spring+Boot+%7C+React.js+%7C+AWS+%7C+Docker" alt="role"/>
+
+<br/>
+
+![](https://img.shields.io/badge/-%E2%80%8B-0d1117?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Spring+Boot+%7C+React.js+%7C+Microservices+%7C+REST+APIs;AWS+%7C+Docker+%7C+GitHub+Actions+CI%2FCD;85%25+Test+Coverage+%7C+TDD+%7C+JUnit+%2B+Mockito;500%2B+Concurrent+Users+%7C+3+Production+Apps+Shipped;Open+to+Full-Time+Roles+in+Bengaluru+%F0%9F%9F%A2)](https://github.com/siva042004)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siva042004)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msan6848@gmail.com)
+
+<br/>
+
+![](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-Full_Stack_Java_Developer-4ade80?style=flat-square&labelColor=0d1117)
+&nbsp;
+![](https://komarev.com/ghpvc/?username=siva042004&label=Profile+Views&color=38bdf8&style=flat-square&labelColor=0d1117)
 
 <br/><br/>
 
-<!-- ✅ Typing SVG — demolab is reliable -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=Spring+Boot+%7C+React.js+%7C+Microservices;AWS+%7C+Docker+%7C+GitHub+Actions+CI%2FCD;85%25+Test+Coverage+%7C+TDD+%7C+JUnit+%2B+Mockito;500%2B+Concurrent+Users+%7C+3+Apps+Shipped;Open+to+Full-Time+Roles+%F0%9F%9F%A2)](https://github.com/siva042004)
-
-<br/>
-
-<!-- ✅ All shields.io — 100% reliable -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siva042004)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msan6848@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://siva042004.github.io)
-
-<br/>
-
-![](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full%20Stack%20Java-4ade80?style=flat-square&labelColor=0d1117)
-&nbsp;
-![](https://komarev.com/ghpvc/?username=siva042004&label=Profile+Views&color=38bdf8&style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -30,9 +41,9 @@
 
 ### 👋 Hey, I'm Sivaragul
 
-A **Java Full Stack Developer** from Bengaluru, India — I build production-grade apps using Spring Boot + React.js, ship them on AWS with Docker, and obsess over test quality.
+A **Java Full Stack Developer** from Bengaluru, India — I build production-grade apps using Spring Boot + React.js, ship on AWS with Docker, and obsess over test quality.
 
-- 🔭 &nbsp;Built **3 full-stack apps** end-to-end in a 6-month Agile program
+- 🚀 &nbsp;Shipped **3 full-stack apps** end-to-end in a 6-month Agile program
 - 🧪 &nbsp;Grew test coverage **50% → 85%** using strict TDD
 - ⚡ &nbsp;Cut release effort **60%** via GitHub Actions CI/CD
 - 👥 &nbsp;Apps support **500+ concurrent users** with WebSocket + Redux
@@ -50,12 +61,12 @@ A **Java Full Stack Developer** from Bengaluru, India — I build production-gra
 
 |  | Metric | Result | How |
 |:--:|:--|:--:|:--|
-| 🧪 | Test Coverage | **85%** | TDD · JUnit · Mockito (↑ from 50%) |
+| 🧪 | Test Coverage | **85%** | TDD · JUnit · Mockito — up from 50% |
 | 🐛 | Fewer Production Bugs | **40%** | Strict test discipline + CI gates |
 | ⚡ | Release Speed | **60% faster** | GitHub Actions full automation |
 | 👥 | Concurrent Users | **500+** | WebSocket + Redux + AWS |
 | 🚀 | Production Apps | **3 shipped** | Java · Spring Boot · React · AWS |
-| 📡 | API Response | **20% faster** | JPA query + Spring endpoint tuning |
+| 📡 | API Response Time | **20% faster** | JPA query + Spring endpoint tuning |
 
 </div>
 
@@ -114,9 +125,7 @@ A **Java Full Stack Developer** from Bengaluru, India — I build production-gra
 
 `Spring Boot` `React.js` `WebSocket` `JWT` `MySQL` `AWS` `Docker`
 
-Production platform built for **500+ concurrent users**.
-Real-time WebSocket alerts, RBAC, and full audit logging.
-**35% performance boost** via Redux caching + MySQL optimization.
+Production platform for **500+ concurrent users** with RBAC, real-time WebSocket alerts, and full audit logging. **35% performance boost** via Redux caching + MySQL optimization.
 
 ![](https://img.shields.io/badge/500%2B_Users-4ade80?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/35%25_Boost-38bdf8?style=flat-square&labelColor=0d1117)
@@ -132,9 +141,7 @@ Real-time WebSocket alerts, RBAC, and full audit logging.
 
 `Spring Boot` `React.js` `JWT` `AES-256` `RBAC` `MySQL` `AWS`
 
-Secure HR platform with **JWT auth**, **AES-256 encryption**,
-and fine-grained RBAC authorization.
-**80% test coverage** with JUnit & Mockito.
+Secure HR platform with **JWT auth**, **AES-256 encryption**, and fine-grained RBAC. **80% test coverage** via JUnit & Mockito.
 
 ![](https://img.shields.io/badge/80%25_Coverage-4ade80?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/AES--256-a78bfa?style=flat-square&labelColor=0d1117)
@@ -151,9 +158,7 @@ and fine-grained RBAC authorization.
 
 `Spring Boot` `MySQL` `JWT` `Docker` `Swagger/OpenAPI` `AWS EC2` `GitHub Actions`
 
-Scalable REST APIs for catalog, cart, orders, and payments.
-**30+ endpoints** fully documented in Swagger/OpenAPI.
-Automated Docker + CI/CD pipeline deployed on AWS EC2.
+Scalable REST APIs for catalog, cart, orders, and payments. **30+ endpoints** documented in Swagger/OpenAPI. Automated Docker + CI/CD on AWS EC2.
 
 ![](https://img.shields.io/badge/30%2B_Endpoints-85EA2D?style=flat-square&logo=swagger&logoColor=black&labelColor=0d1117)
 ![](https://img.shields.io/badge/Docker_+_CI%2FCD-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
@@ -169,26 +174,26 @@ Automated Docker + CI/CD pipeline deployed on AWS EC2.
 
 ### 💼 Experience
 
-**🟢 Full Stack Java Developer** — JSPiders Training Program, Bengaluru &nbsp;`Jul 2024 – Jan 2025`
-> Shipped 3 production apps · Test coverage 50%→85% · Bugs ↓40% · CI/CD releases ↑60% faster
+**🟢 Full Stack Java Developer** — JSPiders Training Program, Bengaluru &nbsp;&nbsp; `Jul 2024 – Jan 2025`
+> Shipped 3 production apps · Test coverage 50%→85% · Bugs ↓40% · Releases 60% faster via CI/CD
 
-**🔵 Web Development Intern** — Connect Info System Pvt. Ltd, Chennai &nbsp;`May 2023 – Jun 2023`
-> API response time ↓20% · WebSocket integration · Docker containerization
+**🔵 Web Development Intern** — Connect Info System Pvt. Ltd, Chennai &nbsp;&nbsp; `May 2023 – Jun 2023`
+> API response time ↓20% · WebSocket real-time sync · Docker + GitHub Actions CI/CD
 
 ---
 
 ### 🎓 Education
 
-🏛️ **Saveetha Engineering College** &nbsp;·&nbsp; B.E. Computer Science Engineering &nbsp;·&nbsp; 2021–2025 &nbsp;·&nbsp; CGPA 7.3
+🏛️ &nbsp;**Saveetha Engineering College** &nbsp;·&nbsp; B.E. Computer Science Engineering &nbsp;·&nbsp; 2021–2025 &nbsp;·&nbsp; CGPA 7.3
 
 ---
 
 <div align="center">
 
-*📍 Bengaluru, India &nbsp;·&nbsp; Open to Full-Time Java Full Stack Roles &nbsp;·&nbsp; Remote-Friendly*
-
-<br/>
-
-![footer](./banner.svg)
+![](https://img.shields.io/badge/📍_Bengaluru,_India-0d1117?style=flat-square&labelColor=0d1117&color=475569)
+&nbsp;
+![](https://img.shields.io/badge/💼_Full_Stack_Java_Roles-open-4ade80?style=flat-square&labelColor=0d1117)
+&nbsp;
+![](https://img.shields.io/badge/🌐_Remote_Friendly-yes-38bdf8?style=flat-square&labelColor=0d1117)
 
 </div>
