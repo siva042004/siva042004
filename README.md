@@ -17,13 +17,12 @@
 ```java
 /**
  * @author  Sivaragul M
- * @version 1.0
+ * @role    Java Full Stack Developer
  * @since   2021
  */
 public class Sivaragul {
 
     final String name     = "Sivaragul M";
-    final String role     = "Java Full Stack Developer";
     final String location = "Bengaluru, Karnataka 🇮🇳";
     final String email    = "msan6848@gmail.com";
 
@@ -34,14 +33,14 @@ public class Sivaragul {
     };
 
     String[] currentlyLearning = {
-        "Kubernetes", "Redis Caching", "System Design"
+        "Kubernetes", "Redis", "System Design"
     };
 
-    // Fun metrics
-    int testCoverage     = 85;   // up from 50% via TDD
-    int bugReduction     = 40;   // % drop in production bugs
-    int ciEffortSaved    = 60;   // % faster releases via CI/CD
-    int concurrentUsers  = 500;  // supported per app
+    // Proven impact from real projects
+    int testCoverage    = 85;  // % — up from 50 via TDD
+    int bugReduction    = 40;  // % fewer production bugs
+    int ciEffortSaved   = 60;  // % faster releases via CI/CD
+    int concurrentUsers = 500; // supported per app
 
     String motto() {
         return "Write clean code. Scale fearlessly. Ship fast.";
@@ -77,6 +76,7 @@ public class Sivaragul {
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=flat-square&logo=apachekafka&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -96,30 +96,39 @@ public class Sivaragul {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Stats
+
+<!-- 
+  These badges use img.shields.io — 100% reliable, always online.
+  Update the numbers as your GitHub activity grows.
+-->
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=msan6848&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msan6848&layout=donut&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=6" />
-    </td>
-  </tr>
-</table>
+![Test Coverage](https://img.shields.io/badge/Test%20Coverage-85%25-3fb950?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Bug Reduction](https://img.shields.io/badge/Bug%20Reduction-40%25-ff7b72?style=for-the-badge&logo=bugsnag&logoColor=white)
+![CI/CD Savings](https://img.shields.io/badge/Release%20Effort%20Saved-60%25-79c0ff?style=for-the-badge&logo=githubactions&logoColor=white)
+![Concurrent Users](https://img.shields.io/badge/Concurrent%20Users-500%2B-ffa657?style=for-the-badge&logo=users&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=msan6848&theme=tokyonight-duo&background=0D1117&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
+
+<div align="center">
+
+![Apps Shipped](https://img.shields.io/badge/Production%20Apps%20Shipped-3-d2a8ff?style=for-the-badge&logo=rocket&logoColor=white)
+![API Endpoints](https://img.shields.io/badge/API%20Endpoints%20Documented-30%2B-58a6ff?style=for-the-badge&logo=swagger&logoColor=white)
+![API Speedup](https://img.shields.io/badge/API%20Response%20Speedup-20%25-3fb950?style=for-the-badge&logo=speedtest&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🏆 GitHub Trophies
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msan6848&bg_color=0d1117&color=70A5FD&line=70A5FD&point=ffffff&area=true&area_color=70A5FD&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=msan6848&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -128,7 +137,7 @@ public class Sivaragul {
 ### 🔔 Incident Management System
 > **Spring Boot · React.js · MySQL · AWS · Docker · WebSocket · JWT · GitHub Actions**
 
-Scalable full-stack incident platform supporting **500+ concurrent users** with RBAC, real-time WebSocket notifications, and audit logging. **35% performance boost** through Redux caching, lazy loading & MySQL optimization.
+Scalable full-stack incident platform supporting **500+ concurrent users** with RBAC, real-time WebSocket notifications, and full audit logging. Achieved a **35% performance improvement** through Redux caching, lazy loading, and MySQL query optimization.
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/msan6848)
 [![Live](https://img.shields.io/badge/Live%20Demo-70A5FD?style=flat-square&logo=vercel&logoColor=white)](#)
@@ -138,7 +147,7 @@ Scalable full-stack incident platform supporting **500+ concurrent users** with 
 ### 👥 Employee Management System
 > **Spring Boot · React.js · JWT · AES-256 · RBAC · MySQL · AWS · JUnit**
 
-Secure HR platform with JWT auth, AES-256 encryption & role-based access. **80% test coverage** via JUnit & Mockito.
+Secure HR platform with JWT authentication, AES-256 encryption, and role-based access control. Achieved **80% test coverage** using JUnit and Mockito.
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/msan6848)
 [![Live](https://img.shields.io/badge/Live%20Demo-70A5FD?style=flat-square&logo=vercel&logoColor=white)](#)
@@ -148,7 +157,7 @@ Secure HR platform with JWT auth, AES-256 encryption & role-based access. **80% 
 ### 🛒 E-Commerce REST API Backend
 > **Spring Boot · MySQL · JWT · Docker · Swagger/OpenAPI · AWS EC2 · GitHub Actions**
 
-REST APIs for catalog, cart, orders & payments. **30+ endpoints** documented in Swagger/OpenAPI. Full Docker + CI/CD automation.
+REST APIs for catalog, cart, orders, and payments with JWT authentication. Documented **30+ endpoints** via Swagger/OpenAPI with fully automated Docker + CI/CD deployment.
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/msan6848)
 
@@ -161,18 +170,16 @@ REST APIs for catalog, cart, orders & payments. **30+ endpoints** documented in 
 | 🧑‍💻 | Full Stack Java Developer | JSPiders Training Program | Jul 2024 – Jan 2025 |
 | 🌐 | Web Development Intern | Connect Info System Pvt. Ltd | May 2023 – Jun 2023 |
 
-**Impact numbers:** `85%` test coverage · `40%` fewer bugs · `60%` faster releases · `20%` API speedup
-
 ---
 
 ## 🎓 Education
 
 **Saveetha Engineering College** — B.E. Computer Science Engineering
-📅 2021–2025 · 📍 Chennai, TN · 🎯 CGPA: 7.3
+📅 2021 – 2025 · 📍 Chennai, TN · 🎯 CGPA: 7.3
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
