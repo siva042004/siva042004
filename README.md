@@ -1,151 +1,82 @@
 <div align="center">
 
-```
-$ whoami
-```
+# Sivaragul M
+
+**Full Stack Java Developer** — Spring Boot · React.js · AWS · Docker
+
+📍 Bengaluru, India &nbsp;|&nbsp; 📧 [msan6848@gmail.com](mailto:msan6848@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/sivaragul-m-4496682ba) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/siva042004) &nbsp;|&nbsp; 🌐 [Portfolio](https://siva042004.github.io/Sivaragul-portfolio)
+
+**🟢 Open to full-time Full Stack Java Developer roles**
 
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2200&pause=1200&color=7EE787&center=true&vCenter=true&width=560&height=60&lines=sivaragul_m" alt="sivaragul_m"/>
-</h1>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-●-7ee787?style=flat-square&labelColor=0d1117" height="10"/>
-  <b><font color="#8b949e">full stack java developer · bengaluru, in</font></b>
-</p>
+## About
 
-<p align="center">
-  <a href="https://github.com/siva042004"><img src="https://img.shields.io/badge/github-siva042004-8b949e?style=flat-square&logo=github&logoColor=white&labelColor=0d1117"></a>
-  <a href="https://linkedin.com/in/sivaragul-m-4496682ba"><img src="https://img.shields.io/badge/linkedin-connect-8b949e?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"></a>
-  <a href="https://siva042004.github.io/Sivaragul-portfolio"><img src="https://img.shields.io/badge/portfolio-visit-8b949e?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117"></a>
-  <a href="mailto:msan6848@gmail.com"><img src="https://img.shields.io/badge/email-msan6848-8b949e?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"></a>
-</p>
+I build backend systems with Spring Boot and pair them with React.js frontends, focusing on things that matter in production: rate limiting, resilience, and test coverage. My most recent project is a distributed API gateway with Redis-backed rate limiting and circuit-breaker fallback. I'm comfortable across the stack — from designing REST APIs to containerizing and deploying them on AWS.
 
 <br/>
 
-```diff
-+ status: 200 OK — open to full-time roles
-```
+## Tech Stack
 
----
+| | |
+|---|---|
+| **Languages** | Java, JavaScript, TypeScript, SQL |
+| **Backend** | Spring Boot, Spring Security, REST APIs, JWT, Redis |
+| **Frontend** | React.js, Redux, WebSocket, HTML5, CSS3 |
+| **Database** | MySQL |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, GitHub Actions |
+| **Testing** | JUnit5, Mockito |
+| **Tools** | Git, Maven, Swagger, Postman |
 
-### `~/about.md`
+<br/>
 
-```
-I design and build backend systems the way I'd want to depend on them in
-production: rate-limited, circuit-broken, and tested before they ship.
+## Projects
 
-Most recently, that meant building a distributed API gateway from the
-ground up — Redis-backed rate limiting, Resilience4j fallbacks, and a
-dashboard to watch it hold up under load.
+### Distributed Rate Limiter & API Gateway
+Spring Boot · Redis · Docker · AWS · Resilience4j
 
-stack   : Java · Spring Boot · React.js · Redis · MySQL
-infra   : Docker · AWS · GitHub Actions
-learning: Kubernetes · Kafka · System Design
-```
+Distributed API gateway supporting request routing, auth forwarding, and traffic management. Implemented Redis-backed Token Bucket and Sliding Window rate-limiting algorithms via atomic Lua scripts, with Resilience4j circuit-breaker fallback for downstream resilience.
 
----
+[View Code →](https://github.com/siva042004)
 
-### `~/gateway.log`
+### Distributed Job Scheduling Platform
+Spring Boot · Kafka · Kubernetes · WebSocket · React.js
 
-<sup>· projects, as requests through the systems I've built ·</sup>
+Real-time job scheduling platform with a React monitoring dashboard — live execution history, failure alerts, and performance metrics. Containerized and deployed on Kubernetes.
 
-```
-POST /projects/distributed-rate-limiter        → 200 OK
-  ├─ stack     Spring Boot · Redis · Resilience4j · Docker · AWS
-  ├─ core      Token Bucket + Sliding Window, atomic via Redis Lua scripts
-  ├─ resilience  Circuit breaker fallback on downstream failure
-  └─ repo      github.com/siva042004 →
+[View Code →](https://github.com/siva042004)
 
-GET  /projects/job-scheduling-platform         → 200 OK
-  ├─ stack     Spring Boot · Kafka · Kubernetes · WebSocket · React
-  ├─ core      Real-time dashboard — live execution history, failure alerts
-  ├─ deploy    Containerized, deployed and tested on Kubernetes
-  └─ repo      github.com/siva042004 →
+### Multi-Tenant SaaS Billing & Subscription Engine
+Spring Boot · React.js · Stripe · Docker · AWS
 
-PUT  /projects/saas-billing-engine             → 200 OK
-  ├─ stack     Spring Boot · React · Stripe · Docker · AWS
-  ├─ core      Multi-tenant billing — subscriptions, real-time payment sync
-  ├─ edge_cases  failed payments · prorated upgrades · concurrent ops
-  └─ repo      github.com/siva042004 →
-```
+Multi-tenant billing dashboard for subscription management and real-time payment updates. Validated against edge cases including failed payments, prorated upgrades, and concurrent operations.
 
----
+[View Code →](https://github.com/siva042004)
 
-### `~/experience.log`
+<br/>
 
-```
-[2024-07 → 2025-01]  Full Stack Java Developer Training · JSPiders, Bengaluru
-                      shipped 3 full-stack apps — Spring Boot, React, MySQL, Docker, AWS
+## Experience
 
-[2023-05 → 2023-06]  Web Development Intern · Connect Info System Pvt. Ltd, Chennai
-                      optimized frontend-backend integration · Docker + GitHub Actions CI/CD
-```
+**Full Stack Java Developer Training** — JSPiders, Bengaluru &nbsp;·&nbsp; *Jul 2024 – Jan 2025*
+Shipped 3 full-stack applications using Spring Boot, React.js, MySQL, Docker, and AWS.
 
----
+**Web Development Intern** — Connect Info System Pvt. Ltd, Chennai &nbsp;·&nbsp; *May 2023 – Jun 2023*
+Optimized frontend-backend integration; containerized applications with Docker and set up GitHub Actions CI/CD pipelines.
 
-### `~/stack.yml`
+<br/>
 
-<table align="center">
-<tr>
-<td valign="top" width="25%">
+## Education
 
-**backend**
-<br/>Java
-<br/>Spring Boot
-<br/>Spring Security
-<br/>JWT
-<br/>Redis
+**B.E. Computer Science Engineering** — Saveetha Engineering College, Anna University &nbsp;·&nbsp; 2021–2025
 
-</td>
-<td valign="top" width="25%">
-
-**frontend**
-<br/>React.js
-<br/>Redux
-<br/>TypeScript
-<br/>WebSocket
-
-</td>
-<td valign="top" width="25%">
-
-**infra**
-<br/>AWS
-<br/>Docker
-<br/>Kubernetes
-<br/>GitHub Actions
-
-</td>
-<td valign="top" width="25%">
-
-**data / test**
-<br/>MySQL
-<br/>JUnit5 · Mockito
-<br/>Swagger
-<br/>Postman
-
-</td>
-</tr>
-</table>
-
----
-
-### `~/education.md`
-
-```
-B.E. Computer Science Engineering
-Saveetha Engineering College, Anna University · 2021–2025
-```
+<br/>
 
 ---
 
 <div align="center">
 
-```diff
-+ GET /contact  →  msan6848@gmail.com
-```
-
-<sub>rendered from Bengaluru, IN — remote friendly</sub>
+📫 **msan6848@gmail.com** &nbsp;|&nbsp; Open to opportunities in Bengaluru and remote roles
 
 </div>
