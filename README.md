@@ -134,13 +134,13 @@ Real-time job scheduling and monitoring platform with a React dashboard for live
 <tr>
 <td colspan="2">
 
-#### 🛒 Full-Stack E-Commerce Platform
+#### 💳 Multi-Tenant SaaS Billing & Subscription Engine
 
-`Spring Boot` `React.js` `JWT` `Docker` `GitHub Actions CI/CD`
+`Spring Boot` `React.js` `Stripe` `Docker` `AWS`
 
-End-to-end e-commerce platform covering catalog, cart, orders, and payments, with JWT-secured REST APIs and automated Docker + CI/CD deployment.
+Multi-tenant billing dashboard supporting subscription management and real-time payment updates, with workflows validated against edge cases like failed payments, prorated upgrades, and concurrent operations. Deployed with Docker and GitHub Actions CI/CD.
 
-![](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white&labelColor=0d1117)
 ![](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0d1117)
 
 [![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/siva042004)
