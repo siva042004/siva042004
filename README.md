@@ -61,10 +61,10 @@ A **Java Full Stack Developer** from Bengaluru — I build production-grade apps
 
 ### 💼 Experience
 
-**🟠 Full Stack Developer Intern** — Codec Tech, Chennai (Remote) &nbsp;&nbsp; `Mar 2026 – Jun 2026`
+**🟠 Full Stack Developer Intern** — Codec Tech, C (Remote) &nbsp;&nbsp; `Mar 2026 – Jun 2026`
 > Built full-stack modules end-to-end with Java, Spring Boot & React.js · Designed REST APIs integrated with relational DB
 
-**🟣 Software Engineer Intern** — Global Minds, Chennai &nbsp;&nbsp; `Mar 2025 – Present`
+**🟣 Software Engineer Intern** — Global Minds, Chennai &nbsp;&nbsp; `Mar 2025 – May 2025`
 > Built multi-tenant dashboards with React + Tailwind for *Book My Event* · JWT auth + RBAC on Flask backend · data isolation across tenants
 
 **🟢 Full Stack Java Developer Trainee** — JSPiders, Bengaluru &nbsp;&nbsp; `Jul 2025 – Jan 2026`
