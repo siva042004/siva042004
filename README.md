@@ -9,7 +9,7 @@
 <br/>
 
 ![](https://img.shields.io/badge/-%E2%80%8B-0d1117?style=for-the-badge)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Spring+Boot+%7C+React.js+%7C+Microservices+%7C+REST+APIs;AWS+%7C+Docker+%7C+GitHub+Actions+CI%2FCD;Redis+%7C+Resilience4j+%7C+Distributed+Systems;3+Full-Stack+Projects+Shipped;Open+to+Full-Time+Roles+in+Bengaluru+%F0%9F%9F%A2)](https://github.com/siva042004)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Spring+Boot+%7C+React.js+%7C+Microservices+%7C+REST+APIs;AWS+%7C+Docker+%7C+Kafka+%7C+Kubernetes;Redis+%7C+Resilience4j+%7C+Distributed+Systems;Claude+%7C+Ollama+%7C+Prompt+Engineering+%7C+AI+Integration;3+Full-Stack+Projects+Shipped;Open+to+Full-Time+Roles+in+Bengaluru+%F0%9F%9F%A2)](https://github.com/siva042004)
 
 <br/>
 
@@ -32,8 +32,8 @@
 ![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white)
+![](https://img.shields.io/badge/Claude_AI-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -43,34 +43,89 @@
 
 ### 👋 Hey, I'm Sivaragul
 
-A **Java Full Stack Developer** from Bengaluru, India — I build production-grade apps using Spring Boot + React.js, ship on AWS with Docker, and obsess over test quality.
+A **Java Full Stack Developer** from Bengaluru — I build production-grade apps from schema to deployment using Spring Boot + React.js, ship on AWS with Docker, and lately I've been integrating LLMs into real workflows using Claude and Ollama.
 
-- 🚀 &nbsp;Shipped **3 full-stack apps** — job scheduling, SaaS billing, and a distributed API gateway
-- ⚡ &nbsp;Built a **Redis-backed rate limiter** with Token Bucket & Sliding Window algorithms
-- 🧪 &nbsp;Practice **TDD** with JUnit & Mockito to keep test coverage high
-- 🐳 &nbsp;Containerize everything with **Docker**, automate deploys with **GitHub Actions**
-- 🌱 &nbsp;Currently learning: **Kubernetes · Kafka · System Design**
-- 💬 &nbsp;Ask me about: **Spring Boot, REST APIs, Redis, Docker, React**
+- 🔵 &nbsp;**Connect Info System** → fixed 10+ data-flow bugs across frontend-backend integrations *(2023)*
+- 🟣 &nbsp;**Global Minds** → built multi-tenant dashboards + JWT/RBAC auth for *Book My Event* *(2025)*
+- 🟠 &nbsp;**Codec Tech** → shipped full-stack modules end-to-end with Spring Boot & React.js *(2026)*
+- 🚀 &nbsp;Shipped **3 personal full-stack apps** — job scheduling, SaaS billing, distributed API gateway
+- 🤖 &nbsp;Into **AI tooling**: prompt engineering, Claude API, Ollama for local LLMs, vibe coding
+- 🧪 &nbsp;Practice **TDD** with JUnit & Mockito — tests are not optional
+- 🐳 &nbsp;Containerize everything with **Docker**, orchestrate with **Kubernetes**, automate with **GitHub Actions**
+- 💬 &nbsp;Ask me about: **Spring Boot, Redis, Kafka, distributed systems, AI integration**
 - 📫 &nbsp;Reach me: **msan6848@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-### 📊 Impact at a Glance
+### 💼 Experience
 
-<div align="center">
+**🟠 Full Stack Developer Intern** — Codec Tech, Chennai (Remote) &nbsp;&nbsp; `Mar 2026 – Jun 2026`
+> Built full-stack modules end-to-end with Java, Spring Boot & React.js · Designed REST APIs integrated with relational DB
 
-|  | Metric | Result | How |
-|:--:|:--|:--:|:--|
-| 🚦 | Rate Limiting | **2 algorithms** | Token Bucket + Sliding Window via Redis Lua scripts |
-| 🔁 | Resilience | **Circuit breaker** | Resilience4j fallback on downstream failure |
-| 🚀 | Production Apps | **3 shipped** | Java · Spring Boot · React · AWS |
-| 🐳 | Deployment | **Full CI/CD** | Docker + GitHub Actions, end to end |
-| ☸️ | Orchestration | **Kubernetes** | Job scheduling platform containerized & deployed |
-| 💳 | Payments | **Stripe integration** | Multi-tenant billing with edge-case handling |
+**🟣 Software Engineer Intern** — Global Minds, Chennai &nbsp;&nbsp; `Mar 2025 – Present`
+> Built multi-tenant dashboards with React + Tailwind for *Book My Event* · JWT auth + RBAC on Flask backend · data isolation across tenants
 
-</div>
+**🟢 Full Stack Java Developer Trainee** — JSPiders, Bengaluru &nbsp;&nbsp; `Jul 2025 – Jan 2026`
+> Shipped 3 full-stack apps solo with Spring Boot, React.js, Docker, AWS · JUnit + Mockito test coverage across all projects
+
+**🔵 Web Development Intern** — Connect Info System Pvt. Ltd, Chennai &nbsp;&nbsp; `May 2023 – Jun 2023`
+> Connected 5+ UI components to backend REST endpoints · traced and fixed 10+ data-flow bugs before release
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚦 Distributed Rate Limiter & API Gateway
+
+`Spring Boot` `Redis` `Docker` `AWS` `Resilience4j`
+
+Token Bucket + Sliding Window rate-limiting via **atomic Redis Lua scripts** to enforce per-client quotas across nodes. Circuit breaker with Resilience4j so downstream failures degrade gracefully — no cascading.
+
+![](https://img.shields.io/badge/Redis_Lua_Scripts-DC382D?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Circuit_Breaking-a78bfa?style=flat-square&labelColor=0d1117)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/siva042004/Distributed-Rate-Limiter-API-Gateway)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🗓️ Distributed Job Scheduling Platform
+
+`Spring Boot` `Kafka` `Kubernetes` `WebSocket` `React.js`
+
+**Kafka-based job queue** decouples scheduling from execution with automatic retries on failure. Real-time React dashboard via WebSocket — clients see job status changes with zero manual refresh. Deployed on Kubernetes.
+
+![](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0d1117)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/siva042004/-Distributed-Job-Scheduling-Platform)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+#### 💳 Multi-Tenant SaaS Billing & Subscription Engine
+
+`Spring Boot` `React.js` `Stripe` `Docker` `AWS`
+
+**Idempotent Stripe payment flow** using idempotency keys to prevent duplicate charges on retry. Prorated billing logic handles mid-cycle upgrades and downgrades correctly across tenants. Deployed with Docker + GitHub Actions CI/CD.
+
+![](https://img.shields.io/badge/Stripe_Idempotency-635BFF?style=flat-square&logo=stripe&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/Prorated_Billing-4ade80?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0d1117)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/siva042004/Multi-Tenant-SaaS-Billing-Subscription-Engine-)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -85,6 +140,7 @@ A **Java Full Stack Developer** from Bengaluru, India — I build production-gra
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge)
 
 **Frontend**
@@ -93,8 +149,7 @@ A **Java Full Stack Developer** from Bengaluru, India — I build production-gra
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -102,88 +157,52 @@ A **Java Full Stack Developer** from Bengaluru, India — I build production-gra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 **Database & Testing**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78CFF5?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**AI & Prompt Engineering**
+
+![Claude](https://img.shields.io/badge/Claude_(Anthropic)-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=for-the-badge&logo=openai&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-38BDF8?style=for-the-badge&logo=lightning&logoColor=white)
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 📊 By the Numbers
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-#### 🚦 Distributed Rate Limiter & API Gateway
+| Metric | Result | Detail |
+|:--|:--:|:--|
+| 🏢 Internships | **3** | Connect Info System → Global Minds → Codec Tech |
+| 🚀 Full-Stack Apps Shipped | **3** | Rate limiter · Job scheduler · SaaS billing engine |
+| 🔁 Resilience Pattern | **Circuit breaker** | Resilience4j fallback on downstream failure |
+| 🚦 Rate Limiting | **2 algorithms** | Token Bucket + Sliding Window via Redis Lua scripts |
+| 🐛 Bugs Fixed in Production | **10+** | Data-flow bugs caught before release at Connect Info |
+| 🧪 Test Strategy | **TDD** | JUnit + Mockito across all service layers |
+| 🤖 AI Tools | **4** | Claude · Ollama · Prompt Engineering · Vibe Coding |
 
-`Spring Boot` `Redis` `Docker` `AWS` `Resilience4j`
-
-Distributed API gateway supporting request routing, auth forwarding, and traffic management. Redis-backed Token Bucket and Sliding Window rate-limiting algorithms via atomic Lua scripts, with circuit-breaker fallback for downstream resilience.
-
-![](https://img.shields.io/badge/Redis_Lua_Scripts-DC382D?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Circuit_Breaking-a78bfa?style=flat-square&labelColor=0d1117)
-
-[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/siva042004)
-[![Live](https://img.shields.io/badge/Live_Demo-38bdf8?style=flat-square&logo=vercel&logoColor=white)](#)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🗓️ Distributed Job Scheduling Platform
-
-`Spring Boot` `Kafka` `Kubernetes` `WebSocket` `React.js`
-
-Real-time job scheduling and monitoring platform with a React dashboard for live execution history, failure alerts, and performance metrics. Containerized and deployed on Kubernetes.
-
-![](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white&labelColor=0d1117)
-![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0d1117)
-
-[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/siva042004)
-[![Live](https://img.shields.io/badge/Live_Demo-38bdf8?style=flat-square&logo=vercel&logoColor=white)](#)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-#### 💳 Multi-Tenant SaaS Billing & Subscription Engine
-
-`Spring Boot` `React.js` `Stripe` `Docker` `AWS`
-
-Multi-tenant billing dashboard supporting subscription management and real-time payment updates. Validated complex workflows including failed payments, prorated upgrades, and concurrent operations. Deployed using Docker and GitHub Actions CI/CD.
-
-![](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white&labelColor=0d1117)
-![](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0d1117)
-
-[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/siva042004)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-### 💼 Experience
+### 🎓 Education & Certifications
 
-**🟢 Full Stack Java Developer Training** — JSPiders, Bengaluru &nbsp;&nbsp; `Jul 2024 – Jan 2025`
-> Shipped 3 production-grade full-stack apps · Spring Boot, React.js, MySQL, Docker, AWS
+🏛️ &nbsp;**Saveetha Engineering College**, Anna University &nbsp;·&nbsp; B.E. Computer Science Engineering &nbsp;·&nbsp; CGPA 7.3 &nbsp;·&nbsp; 2021–2025
 
-**🔵 Web Development Intern** — Connect Info System Pvt. Ltd, Chennai &nbsp;&nbsp; `May 2023 – Jun 2023`
-> Optimized frontend-backend integration · Docker + GitHub Actions CI/CD · UI/UX and data-flow debugging
+📜 &nbsp;IBM Data Science Professional Certificate — Coursera
 
----
-
-### 🎓 Education
-
-🏛️ &nbsp;**Saveetha Engineering College**, Anna University &nbsp;·&nbsp; B.E. Computer Science Engineering &nbsp;·&nbsp; 2021–2025
+📜 &nbsp;Google IT Support Professional Certificate — Coursera
 
 ---
 
